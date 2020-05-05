@@ -1,7 +1,9 @@
 ## Level 1
 
 **URL:** https://redtiger.labs.overthewire.org/level1.php
+
 **Target:** Get the login for the user Hornoxe
+
 **Tablename:** level1_users
 
 <img src="C:\Users\royo\AppData\Roaming\Typora\typora-user-images\image-20200502022328468.png" alt="image-20200502022328468" style="border:1px solid black;" />
